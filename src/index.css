@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@400..700&family=Underdog&display=swap');
+body{
+  font-family: "Underdog", system-ui;
+  background-color: #ffffff
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+
+
+
