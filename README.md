@@ -4,7 +4,7 @@ Bicycle Store is an e-commerce application designed to manage a bicycle store. I
 
 ## [ Live Site URL]("")
 
-<!-- Click here for the Client Live Site: [https://bicycle-haven.vercel.app](https://bicycle-haven.vercel.app) -->
+Click here for the Client Live Site: [https://bicycle-store-client-a4.vercel.app](https://bicycle-store-client-a4.vercel.app)
 
 
 ## 🚀 Features
